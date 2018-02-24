@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPageBottom.Render.TabbedPageOnBottom xmlns="http://xamarin.com/schemas/2014/forms"
+                                            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                                            xmlns:local="clr-namespace:TabbedPageBottom"
+                                            x:Class="TabbedPageBottom.MainPage"
+                                            BarBackgroundColor="#464646">
+
+            <TabbedPageBottom.Render.TabbedPageOnBottom.Children>
+                <ContentPage Title="Tab 1">
+                    <Label Text="Hello Developer, i'm on Bottom 1 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+
+                <ContentPage Title="Tab 2">
+                    <Label Text="Hello Developer, i'm on Bottom 2 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+
+                <ContentPage Title="Tab 3">
+                    <Label Text="Hello Developer, i'm on Bottom 3 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+
+                <ContentPage Title="Tab 4">
+                    <Label Text="Hello Developer, i'm on Bottom 4 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+
+                <ContentPage Title="Tab 5">
+                    <Label Text="Hello Developer, i'm on Bottom 5 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+                
+                <ContentPage Title="Tab 6">
+                    <Label Text="Hello Developer, i'm on Bottom 6 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+
+                <ContentPage Title="Tab 7">
+                    <Label Text="Hello Developer, i'm on Bottom 6 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+
+                <ContentPage Title="Tab 8">
+                    <Label Text="Hello Developer, i'm on Bottom 6 :)" 
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                </ContentPage>
+    </TabbedPageBottom.Render.TabbedPageOnBottom.Children>
+
+</TabbedPageBottom.Render.TabbedPageOnBottom>
